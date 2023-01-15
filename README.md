@@ -1,3 +1,5 @@
+In this project, we'll be creating a virtual personal assistant for ourselves using our favorite programming language, Python. We can perform several offline as well as online operations using the bot.
+
 * freeCodeCamp article: https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
 
 * Hashnode articles:
